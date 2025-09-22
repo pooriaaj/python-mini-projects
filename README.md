@@ -17,3 +17,43 @@ When you run the program, it asks you to type commands:
 
 Example:
 
+add buy milk
+Added: buy milk
+
+add read book
+Added: read book
+
+show
+
+buy milk
+
+read book
+
+remove buy milk
+Removed: buy milk
+
+show
+
+read book
+
+quit
+Goodbye!
+
+
+---
+
+## Why I built this
+I’m using small projects like this to refresh and strengthen my Python skills.  
+This one is simple, but it helped me practice:
+- Handling user input
+- Working with lists
+- Writing functions
+- Using loops to keep a program running
+
+---
+
+## What’s next
+In the future, I’d like to improve it by:
+- Preventing duplicate tasks  
+- Saving tasks to a file so they don’t disappear when the program ends  
+- Maybe even building a simple GUI version someday  
