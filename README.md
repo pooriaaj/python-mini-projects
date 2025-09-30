@@ -1,59 +1,58 @@
-# 📝 To-Do List Manager
+# 🧰 Python Learning Projects
 
-This is a small Python project I built while practicing the basics of programming.  
-It’s a simple command-line app where you can keep track of your tasks by adding them, removing them, and showing the full list.
-
-The idea was to practice how lists, loops, and functions work together in Python, but it turned into a fun little tool.
+This repository is a collection of small, hands-on Python projects I’m building while strengthening my programming and data-analysis skills.  
+Each project focuses on a different concept — from core Python (loops, functions, data structures) to libraries like NumPy, Pandas, and Matplotlib.
 
 ---
 
-## How it works
-When you run the program, it asks you to type commands:
+## 📁 Projects
 
-- **`add <task>`** → adds a new task  
-- **`remove <task>`** → removes a task if it exists  
-- **`show`** → shows all your current tasks, numbered  
-- **`quit`** → exits the program  
+### 📝 To-Do List Manager
+A command-line tool to manage daily tasks.  
+**Focus:** Lists, loops, functions, user input.
 
-Example:
+- `add <task>` → adds a task  
+- `remove <task>` → removes a task if it exists  
+- `show` → displays all tasks  
+- `quit` → exits the program
 
-add buy milk
-Added: buy milk
-
-add read book
-Added: read book
-
-show
-
-buy milk
-
-read book
-
-remove buy milk
-Removed: buy milk
-
-show
-
-read book
-
-quit
-Goodbye!
-
+**Why it matters:**  
+Helped me practice input handling, loops, conditionals, and list operations.
 
 ---
 
-## Why I built this
-I’m using small projects like this to refresh and strengthen my Python skills.  
-This one is simple, but it helped me practice:
-- Handling user input
-- Working with lists
-- Writing functions
-- Using loops to keep a program running
+### 📊 Student Performance Report
+Merges student info with subject scores using Pandas.  
+**Focus:** DataFrames, merge, aggregation, grouping, conditions.
+
+- Calculates averages and pass/fail
+- Categorizes students (Excellent, Good, Needs Work)
+- Summarizes performance by class
+
+**Why it matters:**  
+Introduced data wrangling, joins, and groupby analytics in Pandas.
 
 ---
 
-## What’s next
-In the future, I’d like to improve it by:
-- Preventing duplicate tasks  
-- Saving tasks to a file so they don’t disappear when the program ends  
-- Maybe even building a simple GUI version someday  
+*(More projects will be added as I learn!)*
+
+---
+
+## 🧩 Skills Practiced
+
+- ✅ Core Python (functions, loops, conditionals, data structures)
+- ✅ OOP basics (classes and objects)
+- ✅ NumPy (arrays, math, conditions)
+- ✅ Pandas (data analysis, grouping, pivot tables)
+- ✅ Clean code & structured READMEs
+
+---
+
+## 🚀 What’s Next
+I’ll keep expanding this repository with:
+- More mini-projects for each concept
+- Data-visualization practice (Matplotlib / Seaborn)
+- Algorithm challenges
+- Small data-science analyses
+
+Stay tuned! ✨
