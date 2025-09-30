@@ -1,58 +1,53 @@
-# 🧰 Python Learning Projects
+# Python Learning Projects
 
-This repository is a collection of small, hands-on Python projects I’m building while strengthening my programming and data-analysis skills.  
-Each project focuses on a different concept — from core Python (loops, functions, data structures) to libraries like NumPy, Pandas, and Matplotlib.
-
----
-
-## 📁 Projects
-
-### 📝 To-Do List Manager
-A command-line tool to manage daily tasks.  
-**Focus:** Lists, loops, functions, user input.
-
-- `add <task>` → adds a task  
-- `remove <task>` → removes a task if it exists  
-- `show` → displays all tasks  
-- `quit` → exits the program
-
-**Why it matters:**  
-Helped me practice input handling, loops, conditionals, and list operations.
+This repository contains a series of small Python projects developed while revisiting and strengthening core programming and data analysis skills.  
+Each project focuses on a specific concept — ranging from fundamental Python structures to data manipulation and analysis with libraries such as NumPy and Pandas.
 
 ---
 
-### 📊 Student Performance Report
-Merges student info with subject scores using Pandas.  
-**Focus:** DataFrames, merge, aggregation, grouping, conditions.
+## Projects
 
-- Calculates averages and pass/fail
-- Categorizes students (Excellent, Good, Needs Work)
-- Summarizes performance by class
+### 1. To-Do List Manager
+A simple command-line tool to manage daily tasks.
 
-**Why it matters:**  
-Introduced data wrangling, joins, and groupby analytics in Pandas.
+**Key Features:**
+- Add, remove, and display tasks through typed commands
+- Continuously runs until the user quits
+- Focused on practicing list operations, user input handling, and control flow
 
----
-
-*(More projects will be added as I learn!)*
-
----
-
-## 🧩 Skills Practiced
-
-- ✅ Core Python (functions, loops, conditionals, data structures)
-- ✅ OOP basics (classes and objects)
-- ✅ NumPy (arrays, math, conditions)
-- ✅ Pandas (data analysis, grouping, pivot tables)
-- ✅ Clean code & structured READMEs
+**Concepts Practiced:**
+- Lists  
+- Functions  
+- Loops  
+- Conditional logic  
 
 ---
 
-## 🚀 What’s Next
-I’ll keep expanding this repository with:
-- More mini-projects for each concept
-- Data-visualization practice (Matplotlib / Seaborn)
-- Algorithm challenges
-- Small data-science analyses
+### 2. Student Performance Report
+A Pandas-based data analysis project combining student information and subject scores.
 
-Stay tuned! ✨
+**Key Features:**
+- Merges multiple DataFrames  
+- Computes average scores and pass/fail status  
+- Categorizes performance (Excellent / Good / Needs Work)  
+- Groups data by class to summarize results and pass rates
+
+**Concepts Practiced:**
+- DataFrame operations  
+- Merging and joining  
+- Grouping and aggregation  
+- Conditional columns with `np.select`  
+- Pivot tables for summarization
+
+---
+
+## Skills Covered
+- Core Python: data types, loops, functions, conditionals  
+- Object-Oriented Programming  
+- NumPy: arrays, slicing, operations  
+- Pandas: data cleaning, merging, grouping, and aggregation  
+- Basic data analytics and reporting
+
+---
+
+## Repository Structure
