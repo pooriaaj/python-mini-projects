@@ -40,7 +40,6 @@ Removed: milk
 quit
 Goodbye!
 
-
 ---
 
 ## 🧠 Concepts Practiced
