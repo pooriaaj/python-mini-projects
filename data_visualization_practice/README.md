@@ -14,8 +14,3 @@ It includes:
 - Plot customization (Matplotlib)
 - Subplots and layout design
 - Data storytelling through visuals
-
-### How to Run
-```bash
-cd data_visualization_practice
-python data_visualization.py
